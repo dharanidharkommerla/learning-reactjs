@@ -1,0 +1,9 @@
+branch1 --> learning-react-sanjay
+branch2 --> learning-react-sudhakar
+branch3 --> learning-react-kabir
+branch4 --> learning-react-durgasoft
+
+Note
+====
+you need to perform the git operations from the root directory
+here root directory is --> learning-reactjs
