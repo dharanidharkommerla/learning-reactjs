@@ -1,4 +1,0 @@
-branch1 --> learning-react-sanjay
-branch2 --> learning-react-sudhakar
-branch3 --> learning-react-kabir
-branch4 --> learning-react-durgasoft
